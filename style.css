@@ -1107,17 +1107,17 @@ nav li:hover .submenu {
         font-family: Belanosima;
         writing-mode:tb-rl;
         white-space: nowrap;
-        font-size: 180%;
+        font-size: 7vw;
         margin-top: 25vh;
-        margin-left: 3%;
+        margin-left: -2vw;
     }
     h1{
         font-family: Belanosima;
         margin: 0px;
         padding: 5%;
         text-align: center;
-        font-size: 15vw;
-        margin-top: 22%;
+        font-size: 13vw;
+        margin-top: 35vh;
         margin-right: 30vw;
         border: hidden;
     }
@@ -1125,7 +1125,7 @@ nav li:hover .submenu {
         font-family: Belanosima;
         margin: 0px;
         padding: 0px;
-        margin-top: 30px;
+        margin-top: 30vh;
         text-align: right;
         font-size: 300%;
         
@@ -1156,12 +1156,13 @@ nav li:hover .submenu {
     .date{
         display: flex;
         float: right;
+        font-size: 10vw;
         margin-top: -5vh;
     }
     
     /* Pied de page */
     footer{
-        display: inline-block;
+        display: none;
         position: absolute;
         text-align:center;
         bottom: 0;
