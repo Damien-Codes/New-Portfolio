@@ -20,7 +20,7 @@ a{
     margin-left: 8vw;
 }
 .barred{
-    font-family: Belanosima;
+    font-family: kanit;
     display: flex;
     float: right;
     width: 20%;
@@ -76,7 +76,7 @@ a{
 .blinking-text span:nth-child(7)::after{animation-delay: 0.6s;}
 /* fin de l'effet va et viens */
 .titre h1{
-    font-family: Belanosima;
+    font-family: kanit;
     display: inline-block;
     text-align: left;
     width: 87vw;
@@ -86,7 +86,7 @@ a{
     z-index: 100;
 }
 .by{
-    font-family: Belanosima;
+    font-family: kanit;
     display: flex;
     float: right;
     text-align: left;
@@ -97,7 +97,7 @@ a{
     margin-top: 5vw;
 }
 .about{
-    font-family: Belanosima;
+    font-family: kanit;
     display: flex;
     float: left;
     text-align: left;
@@ -111,7 +111,7 @@ a{
     z-index: 5;
 }
 .about p{
-    font-family: Belanosima;
+    font-family: kanit;
     display: flex;
     float: center;
     font-size: 110%;
